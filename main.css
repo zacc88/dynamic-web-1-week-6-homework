@@ -18,7 +18,7 @@ body {
   justify-content: center;
   margin: 0 auto;
   text-align: center;
-  font-size: 2rem; }
+  font-size: 2rem; 
 }
 
 #restore-me,
@@ -52,7 +52,7 @@ body {
   #restore-me:active,
   #track-me:active {
     box-shadow: 0 5px #666;
-    transform: translateY(4px); }
+    transform: translateY(4px); 
 }
 
 .wrapper {
